@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_todays_plans"
+            android:title="@string/menu_todays_plans" />
+        <item
+            android:id="@+id/nav_all_plans"
+            android:title="@string/menu_all_plans" />
+
+        <item
+        android:id="@+id/routines"
+        android:title="@string/menu_routines" />
+        <item
+            android:id="@+id/accomplished_plans"
+            android:title="@string/menu_accomplished_plans" />
+
+    </group>
+</menu>

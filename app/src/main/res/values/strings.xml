@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Dalycs</string>
+    <string name="title_activity_splash_swipes">SplashSwipes</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="splash1_title">Set Some plans for the day</string>
+    <string name="splash1_desc">Manage your daily plans, events and schedule with daily reminders, tips, and guide</string>
+
+    <string name="splash2_title">Top secure and safe</string>
+    <string name="splash2_desc">Set your plans private, get it set daily</string>
+
+    <string name="splash3_title">Share it or Keep it</string>
+    <string name="splash3_desc">You can share your progress and accomplishments with followers and friends or make it totally private depending on your preference</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_plans">Plans</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_delete_all">Delete All</string>
+    <string name="action_sync_all">Sync</string>
+
+
+    <string name="menu_todays_plans">Todays Plan </string>
+    <string name="menu_all_plans">All Plan </string>
+    <string name="menu_routines">Routines</string>
+    <string name="menu_accomplished_plans">Accomplished Plans</string>
+
+
+</resources>
